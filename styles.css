@@ -188,7 +188,7 @@ h1:hover {
   h1 {
     font-size: 8rem; /* Set to 8rem for screens larger than 1200px */
   }
-
+}
 h1:active {
   transform: translateY(-15px) scale(1.1);
   color: #f5c0a9;
@@ -626,5 +626,4 @@ a {
   100% {
     background-position: 0% 50%;
   }
-}
 }
