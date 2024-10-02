@@ -66,6 +66,13 @@ body.dark-mode {
   --link-hover-color: #49696e;
   --work-item-hover: #49696e;
 }
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
 
 /* Apply the variables */
 body {
@@ -629,4 +636,51 @@ a {
   100% {
     background-position: 0% 50%;
   }
+}
+#backToTopBtn {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  padding: 10px;
+  z-index: 1000;
+}
+
+#backToTopBtn img {
+  width: 40px;
+  height: 40px;
+  transition: transform 1s ease;
+}
+
+#backToTopBtn:hover img {
+  opacity: 0.9;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.resume-link {
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+}
+
+.view-resume {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 25px; 
+  top: 0;
+  white-space: nowrap;
+  font-size: 12px; 
+}
+
+.resume-link:hover .view-resume {
+  visibility: visible;
+  opacity: 1;
+}
+
+.resume-link i {
+  font-size: 24px;
 }

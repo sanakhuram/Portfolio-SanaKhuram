@@ -1,4 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
+  const body = document.body;
+
+  const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  
+  if (userPrefersDark) {
+    body.classList.add('dark-mode');
+  }
+});
+document.addEventListener("DOMContentLoaded", () => {
     const moonToggle = document.querySelector(".moon-toggle-container");
     const body = document.body;
     const cloudContainer = document.querySelector(".cloud-container");
