@@ -29,7 +29,7 @@ This portfolio website provides a detailed overview of my latest work, skills, a
 
 You can view the live demo of this portfolio at the following link:
 
-[**Live Demo**](#) <!-- Replace with actual portfolio link -->
+[**Live Demo**](https://portfolio-sanakh.netlify.app/) 
 
 ## Screenshots
 
