@@ -1,7 +1,6 @@
-
 # Sana Khuram Portfolio
 
-Welcome to my portfolio! This project showcases my work as a **Front-End Developer** along with details about my skills, projects, and background. The site is built with **HTML**,**JS** and **CSS**, focusing on creating a visually engaging and responsive layout that works in both **light** and **dark** modes.
+Welcome to my portfolio! This project showcases my work as a **Front-End Developer** along with details about my skills, projects, and background. The site is built with **HTML**, **JS**, and **CSS**, focusing on creating a visually engaging and responsive layout that works in both **light** and **dark** modes.
 
 ## Table of Contents
 
@@ -10,11 +9,9 @@ Welcome to my portfolio! This project showcases my work as a **Front-End Develop
 3. [Live Demo](#live-demo)
 4. [Installation](#installation)
 5. [Screenshots](#screenshots)
-   - [Dark Mode](#dark-mode)
-   - [Light Mode](#light-mode)
+   - [Dark Mode & Light Mode](#dark-mode--light-mode)
 6. [Technologies Used](#technologies-used)
-7. [Contributing](#contributing)
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ## About the Project
 
@@ -36,11 +33,12 @@ You can view the live demo of this portfolio at the following link:
 
 ## Screenshots
 
-### Dark Mode:
-![Dark Mode](./images/dark-mode.png) <!-- Replace with the actual path to your dark mode screenshot -->
+### Dark Mode & Light Mode:
 
-### Light Mode:
-![Light Mode](./images/light-mode.png) <!-- Replace with the actual path to your light mode screenshot -->
+<div align="center">
+  <img src="./images/dark-mode.png" alt="Dark Mode" width="45%" />
+  <img src="./images/light-mode.png" alt="Light Mode" width="45%" />
+</div>
 
 ## Installation
 
@@ -67,25 +65,6 @@ To run this project locally:
 - **Google Fonts** (for typography)
 - **Responsive Design** (media queries)
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to improving this portfolio or adding new features, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add a meaningful message"
-   ```
-4. Push your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request with a detailed description of the changes.
-
 ## Contact
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project!
@@ -94,4 +73,3 @@ Feel free to reach out to me if you have any questions or would like to collabor
 - **LinkedIn**: [Sana Khuram](https://www.linkedin.com/in/sana-khuram-157ba02b7/)
 - **GitHub**: [sanakhuram](https://github.com/sanakhuram)
 - **Instagram**: [@sana_khuram](https://www.instagram.com/sana_khuram?igsh=MTBneHhvd2d2eXB2dg==)
-
