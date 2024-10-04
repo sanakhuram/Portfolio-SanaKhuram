@@ -29,8 +29,8 @@
 
   /* Custom colors */
   --work-bg: rgba(255, 255, 255, 0.1);
-  --skills-heading-color: #5b3f6f;
-  --skills-text-color: #5b3f6f;
+  --skills-heading-color: #4f3f5b;
+  --skills-text-color:#4f3f5b;
   --link-hover-color: #eac9bb;
   --work-item-hover: #5b3f6f;
 }
@@ -61,8 +61,8 @@ body.dark-mode {
 
   /* Colors specific to dark mode */
   --work-bg: rgba(255, 255, 255, 0.15);
-  --skills-heading-color: rgba(70, 74, 115, 1);
-  --skills-text-color: rgba(70, 74, 115, 1);
+  --skills-heading-color: rgb(49 49 78);
+  --skills-text-color: rgb(49 49 78);
   --link-hover-color: #49696e;
   --work-item-hover: #49696e;
 }
