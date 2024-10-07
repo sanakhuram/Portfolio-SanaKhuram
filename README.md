@@ -40,21 +40,6 @@ You can view the live demo of this portfolio at the following link:
   <img src="./images/light-mode.png" alt="Light Mode" width="45%" />
 </div>
 
-## 🛠️ Installation
-
-To run this project locally:
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/sanakhuram/portfolio.git
-    ```
-
-2. Navigate into the project directory:
-    ```bash
-    cd portfolio
-    ```
-
-3. Open the `index.html` file in your browser to view the portfolio.
 
 ## 🧰 Technologies Used
 
