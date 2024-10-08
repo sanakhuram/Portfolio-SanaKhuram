@@ -1,0 +1,27 @@
+:root {
+    --background: linear-gradient(
+      180deg,
+      #2e2336 0%,
+      #5b3f6f 8.8%,
+      #a3547a 18.8%,
+      #dc6582 34.8%,
+      #e18d95 43.3%,
+      #e3a29f 56.8%,
+      #e5b4a7 67.5%,
+      #a3547a 83.81%,
+      #9a4f64 92.05%,
+      #724673 96.3%,
+      #3f2156 100%
+    );
+    
+    --text-color: #fdfcfc;
+    --heading-color: #fcf9f9;
+    
+    /* Custom colors */
+    --work-bg: rgba(255, 255, 255, 0.1);
+    --skills-heading-color: #4f3f5b;
+    --skills-text-color: #4f3f5b;
+    --link-hover-color: #eac9bb;
+    --work-item-hover: #5b3f6f;
+  }
+  

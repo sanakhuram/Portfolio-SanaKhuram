@@ -1,0 +1,30 @@
+body.dark-mode {
+    --background: linear-gradient(
+      180deg,
+      #232336 0%,
+      #3f426f 7.14%,
+      #49696e 14.29%,
+      #51896d 21.43%,
+      #56957a 28.57%,
+      #5ea78d 35.71%,
+      #8de1a6 42.86%,
+      #84b97c 50%,
+      #9cc483 57.14%,
+      #7eba9e 64%,
+      #4f9a77 74.98%,
+      #4c7a60 81.99%,
+      #464773 87.13%,
+      #26263b 94.72%
+    );
+  
+    --text-color: #fdfdfd;
+    --heading-color: #f1f1f1;
+  
+    /* Colors specific to dark mode */
+    --work-bg: rgba(255, 255, 255, 0.15);
+    --skills-heading-color: rgb(49 49 78);
+    --skills-text-color: rgb(49 49 78);
+    --link-hover-color: #49696e;
+    --work-item-hover: #49696e;
+  }
+  

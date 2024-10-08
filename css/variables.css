@@ -1,0 +1,13 @@
+:root {
+    --font-family-heading: "Limelight", cursive;
+    --font-family-body: "Ligconsolata", monospace;
+    
+    /* Button styling */
+    --button-background: rgba(114, 70, 115, 1);
+    --button-text-color: #fff;
+    
+    /* Moon toggle colors */
+    --moon-color-light: #d8a2a2;
+    --moon-color-dark: #2cd87a;
+  }
+  
