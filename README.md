@@ -31,7 +31,7 @@ You can view the live demo of this portfolio at the following link:
 
 [**Live Demo**](https://sanakhuram.netlify.app/)
 
-## 📸 Screenshots
+## 📸 Figma Screenshots
 
 ### Dark Mode & Light Mode:
 
