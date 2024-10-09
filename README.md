@@ -29,9 +29,9 @@ This portfolio website provides a detailed overview of my latest work, skills, a
 
 You can view the live demo of this portfolio at the following link:
 
-[**Live Demo**](https://portfolio-sanakh.netlify.app/) 
+[**Live Demo**](https://sanakhuram.netlify.app/)
 
-## 📸 Screenshots
+## 📸 Figma Screenshots
 
 ### Dark Mode & Light Mode:
 
