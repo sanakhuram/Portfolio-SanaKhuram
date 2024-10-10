@@ -1,6 +1,6 @@
 # 🌟 Sana Khuram Portfolio
-**Light Mode ☀️ ** ![Portfolio image](https://github.com/user-attachments/assets/e58b3a84-7257-495e-8a1b-c2d9d142268f)
-**Dark Mode 🌚 **![Portfolio image](https://github.com/user-attachments/assets/79b8a658-0a18-4570-90fe-5a5292ad1671)
+☀️ ![Portfolio image](https://github.com/user-attachments/assets/e58b3a84-7257-495e-8a1b-c2d9d142268f)
+🌚![Portfolio image](https://github.com/user-attachments/assets/79b8a658-0a18-4570-90fe-5a5292ad1671)
 
 
 Welcome to my portfolio! This project showcases my work as a **Front-End Developer** along with details about my skills, projects, and background. The site is built with **HTML**, **JS**, and **CSS**, focusing on creating a visually engaging and responsive layout that works in both **light** and **dark** modes. This Portfoilio showcases my first year work and will be updated as with time. 
