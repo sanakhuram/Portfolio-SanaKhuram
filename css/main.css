@@ -200,7 +200,7 @@ button:hover {
   }
   
   .skills h2 {
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: var(--skills-heading-color);
     margin-bottom: 40px;
     position: relative;
@@ -209,14 +209,16 @@ button:hover {
   }
   
   .skills-list h3 {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     color: var(--skills-heading-color);
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     text-align: center;
+    text-transform: uppercase;
   }
   
   .skills-list ul {
     list-style-type: none;
+    padding: 0;
   }
   
   .skills-list ul li {
@@ -224,7 +226,14 @@ button:hover {
     color: var(--skills-text-color);
     text-align: center;
     margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
   }
+  .skills-list ul li:hover {
+    color: var(--link-hover-color); 
+    transition: color 0.3s ease; 
+  }
+  
   
   /* Work Section */
   .latest-work {
@@ -605,5 +614,27 @@ button:hover {
 footer p{
   text-align: center;
   font-size: 10px;
-  color: grey;
+  color: rgb(224, 156, 156);
+}
+/* Styling for technology badges */
+.tech-stack {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.tech-badge {
+  background-color: rgba(255, 255, 255, 0.2); 
+  color: white; 
+  padding: 5px 10px;
+  font-size: 0.9rem;
+  border-radius: 5px; 
+  font-weight: bold;
+  text-transform: uppercase;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+  transition: background-color 0.3s ease;
+}
+
+.tech-badge:hover {
+  background-color: var(--link-hover-color); 
 }
