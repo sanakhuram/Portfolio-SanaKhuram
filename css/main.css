@@ -490,7 +490,7 @@ button:hover {
   }
   
   .social-icons a:hover {
-    color: var(--link-hover-color);
+    color: rgb(224, 156, 156);
   }
   /* Cloud Styles */
   .cloud-container {
