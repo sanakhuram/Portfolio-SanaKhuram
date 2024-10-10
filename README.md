@@ -1,6 +1,6 @@
 # 🌟 Sana Khuram Portfolio
 
-Welcome to my portfolio! This project showcases my work as a **Front-End Developer** along with details about my skills, projects, and background. The site is built with **HTML**, **JS**, and **CSS**, focusing on creating a visually engaging and responsive layout that works in both **light** and **dark** modes.
+Welcome to my portfolio! This project showcases my work as a **Front-End Developer** along with details about my skills, projects, and background. The site is built with **HTML**, **JS**, and **CSS**, focusing on creating a visually engaging and responsive layout that works in both **light** and **dark** modes. This Portfoilio showcases my first year work and will be updated as with time. 
 
 ## 📑 Table of Contents
 
