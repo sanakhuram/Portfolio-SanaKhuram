@@ -8,6 +8,7 @@ body {
   background: var(--background);
   color: var(--text-color);
   transition: background 0.3s ease, color 0.3s ease;
+  cursor: default;
 }
 
 h1, h2 {
@@ -209,11 +210,12 @@ button:hover {
   }
   
   .skills-list h3 {
-    font-size: 1.75rem;
+    font-size: 1.6rem;
     color: var(--skills-heading-color);
     margin-bottom: 30px;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: uppercase; 
+    font-family: var( --font-family-heading);
   }
   
   .skills-list ul {
@@ -633,8 +635,5 @@ footer p{
   text-transform: uppercase;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
   transition: background-color 0.3s ease;
-}
-
-.tech-badge:hover {
-  background-color: var(--link-hover-color); 
+  cursor:default ;
 }
