@@ -1,4 +1,4 @@
-# 🌟 Sana Khuram Portfolio  ![favicon-32x32](https://github.com/user-attachments/assets/7a5977fe-ac13-4b81-93f2-1acb0188cf00)
+#  ![favicon-32x32](https://github.com/user-attachments/assets/7a5977fe-ac13-4b81-93f2-1acb0188cf00) Sana Khuram Portfolio 
 
 
 
