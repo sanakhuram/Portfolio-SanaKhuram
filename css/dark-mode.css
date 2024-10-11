@@ -24,7 +24,9 @@ body.dark-mode {
     --work-bg: rgba(255, 255, 255, 0.15);
     --skills-heading-color: rgb(49 49 78);
     --skills-text-color: rgb(49 49 78);
-    --link-hover-color:#222270;
+    --link-hover-color:#0a0a42;
     --work-item-hover: #49696e;
+    --button-background: #3f426f;
+    --button-text-color: #fff;
   }
   
