@@ -93,6 +93,7 @@ button:hover {
   .heading-section {
     text-align: right;
     padding-right: 10px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.466);
   }
   
   h1 {
