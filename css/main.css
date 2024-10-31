@@ -638,3 +638,9 @@ footer p{
   transition: background-color 0.3s ease;
   cursor:default ;
 }
+strong:hover{
+  color: black;
+}
+strong{
+  text-decoration: underline;
+}
